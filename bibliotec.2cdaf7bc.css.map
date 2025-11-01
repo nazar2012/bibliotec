@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA","sources":["src/style.css"],"sourcesContent":["h1 {\n    color: red;\n    font-size: 100px;\n}\n\nbutton {\n    color: white;\n    background-color: black;\n    border: none;\n    padding: 10px 20px;\n    border-radius: 20px;\n    cursor: pointer;\n}"],"names":[],"version":3,"file":"bibliotec.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
